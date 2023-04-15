@@ -1,0 +1,45 @@
+.header img{
+    display:flex;
+    min-width: 100vw;
+    max-height: 50vh;
+    
+    
+    
+
+    
+    
+}
+
+.nav{
+    display:flex;
+    flex-wrap:wrap;
+    
+}
+
+
+
+main .portfoliosection h1{
+
+}
+
+
+
+.projectContainer img{
+    display:flex;
+    justify-content:end;
+
+
+}
+
+.runbuddyimg{
+    display:flex;
+    max-width:100px;
+}
+
+
+p{
+    font-family: Arial, sans-serif;
+    color: darkgreen;
+    display:flex;
+    flex-wrap:wrap;
+}
