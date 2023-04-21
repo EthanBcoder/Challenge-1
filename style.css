@@ -5,35 +5,47 @@
     
     
     
+    
 
     
     
 }
 
-.nav{
+.nav ul{
+    display:flex;
+    justify-content: end;
+}
+
+
+
+.Work h1{
+
+   
+
+}
+
+
+
+.projectcontainer img{
     display:flex;
     flex-wrap:wrap;
-    
+    padding: 10px;
+    max-width: 900px;
+    max-height: 500px;
+    float:right;
 }
 
-
-
-main .portfoliosection h1{
-
-}
-
-
-
-.projectContainer img{
+.runbuddy img{
     display:flex;
-    justify-content:end;
-
-
+    max-width: 750px;
+    max-height: 500px;
+    float:right;
 }
 
-.runbuddyimg{
-    display:flex;
-    max-width:100px;
+.Surfreport img{
+    display: flex;
+    flex-wrap:wrap;
+    float:right;
 }
 
 
@@ -42,4 +54,5 @@ p{
     color: darkgreen;
     display:flex;
     flex-wrap:wrap;
+
 }
